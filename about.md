@@ -5,7 +5,7 @@ title: About Sadie Koori
 
 <div class="post">
 	<h1 class="pageTitle">About Sadie Koori</h1>
-	<img src="{{ '/assets/img/]~_}HHAS4N50BIK4HFDVT32.png' | prepend: site.baseurl }}" alt="">
+	<img src="{{ '/assets/img/h6p3525rbesaimyt717t7m7d.jpg' | prepend: site.baseurl }}" alt="">
 	<p class="intro">土拨鼠，成年的生物学入门级菜鸟。自称动漫、图书、电影鉴赏大/师，混迹于各国各个圈子的网络活跃玩家</p>
 	<p>“萌之上，即为荡漾” ——《化物语》</p>
 	<h2>Features</h2>
