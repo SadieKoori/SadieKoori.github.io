@@ -1,12 +1,12 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Whisper of Koori
+description: 一个用来絮絮叨叨的地方，话题包含动漫、图书、电影、追星，能力允许会记录专业上的小科普
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://SadieKoori.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-markdown: kramdown
+markdown: 小书匠
 highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 5
@@ -20,9 +20,9 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  github: SadieKoori
+  twitter: Sadie_こおり
+  weibo: Sadie_土撥鼠_koori
+  email: stageta2tuboshu@gmail.com
 
 google_analytics: "UA-58263416-1"
