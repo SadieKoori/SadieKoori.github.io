@@ -14,8 +14,7 @@ title: About Sadie Koori
   		<li>初二暑假开始迷上电影</li>
   		<li>读书，是一生的工程。正在建立阅读体系...</li>
   		<li>“萌之上，即为荡漾” ——《化物语》</li>
-  		<li>我的话多日常指路{{site.weibo}}<https://weibo.com/3626604222/profile?profile_ftype=1&is_all=1#_0> </li>
-      <li>5 Post Loop with excerpt on Home Page</li>
+  		<li>我的话多日常指路<https://weibo.com/3626604222/profile?profile_ftype=1&is_all=1#_0>@Sadie_土拨鼠_koori </li>
   		
   	</ul>
 </div>
