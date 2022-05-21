@@ -6,9 +6,10 @@ title: Sadie's corner
 <div id="articles">
   <h1>Sadie's corner</h1>
   <ul class="posts 1">
+     {%- for post in site.posts -%}
       <li>
       	<span class="date">2020-05-25</span>
-      	<h3>初来乍到</a></h3>
+      	<h3><a href="{{ post.url }}">初来乍到</a></h3>
       	<p class="content">**土拨鼠**，人类名称Sadie Koori。
 
 生物学菜鸟入门级别；动漫，阅读，看片爱好者。每一个兴趣都自称颇有经验心得，有一套自己规定的欣赏门槛，讲实话就是有点双标。  
