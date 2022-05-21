@@ -16,6 +16,8 @@ navigation:
     url: /index.html
   - title: About
     url: /about
+  - title: Sadie's corner
+    url: / articles
   - title: Contact
     url: /contact
 
@@ -23,6 +25,7 @@ social:
   github: SadieKoori
   twitter: Sadie_こおり
   weibo: Sadie_土撥鼠_koori
+  instagram: Sadieee51
   email: stageta2tuboshu@gmail.com
 
 google_analytics: "UA-58263416-1"
