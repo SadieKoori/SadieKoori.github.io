@@ -12,12 +12,10 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-  - title: Home
+  - title: Sadie's corner
     url: /index.html
   - title: About
     url: /about
-  - title: Sadie's corner
-    url: / articles
   - title: Contact
     url: /contact
 
