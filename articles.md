@@ -6,10 +6,9 @@ title: Sadie's corner
 <div id="articles">
   <h1>Sadie's corner</h1>
   <ul class="posts 1">
-     {%- for post in site.posts -%}
       <li>
       	<span class="date">2020-05-25</span>
-      	<h3><a href="{{ post.url }}">初来乍到</a></h3>
+      	<h3><a href="https://sadiekoori.github.io/blog/%E5%88%9D%E6%9D%A5%E4%B9%8D%E5%88%B0/">初来乍到</a></h3>
       	<p class="content">**土拨鼠**，人类名称Sadie Koori。
 
 生物学菜鸟入门级别；动漫，阅读，看片爱好者。每一个兴趣都自称颇有经验心得，有一套自己规定的欣赏门槛，讲实话就是有点双标。  
@@ -29,7 +28,7 @@ title: Sadie's corner
  <ul class="posts 2">
       <li>
       	<span class="date">2020-5-28</span>
-      	<h3>时隔半年的等待</h3>
+      	<h3><a href="https://sadiekoori.github.io/blog/%E6%97%B6%E9%9A%94%E5%8D%8A%E5%B9%B4%E7%9A%84%E7%AD%89%E5%BE%85/">时隔半年的等待</a></h3>
       	<p class="content">今天是2020年5月28日，我的日语N2成绩单和合格证明邮寄到家了。  
 
 去年12月1日，在东南大学楼下的邮政亭里填写的快递单也完好无损地、跟着包裹和包裹里的文件寄到了家里。时隔6个多月，看着现在日本疫情形势，我原本以为还有好长一段等待的时间，就在今天，原本用网络查物流信息也是无运输记录的成绩单和合格证明就突然运送到达了。  
@@ -52,7 +51,7 @@ title: Sadie's corner
  <ul class="posts 3">
       <li>
       	<span class="date">2020-6-28</span>
-      	<h3>新番试吃报告丨DECA-DENCE先行话</h3>
+      	<h3><a href="https://sadiekoori.github.io/blog/%E6%96%B0%E7%95%AA%E8%AF%95%E5%90%83%E6%8A%A5%E5%91%8A%E4%B8%A8DECA-DENCE%E5%85%88%E8%A1%8C%E8%AF%9D/">新番试吃报告丨DECA-DENCE先行话</a></h3>
       	<p class="content">2020年6月28号，B站今年的第一部七月番《DECA-DENCE》上线了  
 ```markdown
 [没落要塞/DECA-DENCE：第1话_番剧_bilibili_哔哩哔哩  ](https://www.bilibili.com/bangumi/play/ep329663)
@@ -78,7 +77,7 @@ title: Sadie's corner
  <ul class="posts 4">
       <li>
       	<span class="date">2020-7-17</span>
-      	<h3>抗疫之战里的英雄</h3>
+      	<h3><a href="https://sadiekoori.github.io/blog/%E6%8A%97%E7%96%AB%E4%B9%8B%E6%88%98%E9%87%8C%E7%9A%84%E8%8B%B1%E9%9B%84/">抗疫之战里的英雄</a></h3>
       	<p class="content">2020年开年，新型冠状病毒席卷而来，因病毒感染能力强，不出一个月，疫情在全国呈现严重趋势。为了应对并控制这一从未面对过的“生化危机”，全国人民上下一心，各司其职：医务工作人员加班加点，研究室灯火通明，基层公务员挨家挨户奔波。度过最忙碌且艰难的二月，三月的春光带来了疫情逐渐得到控制的消息。到了三月中旬，小区里紧张的气氛逐渐消散，每个人紧皱的眉头也终于开始舒展。  
 
 
@@ -116,7 +115,7 @@ title: Sadie's corner
  <ul class="posts 5">
       <li>
       	<span class="date">2022-5-21</span>
-      	<h3>沉梦春夏之交的瑞典</h3>
+      	<h3>沉梦春夏之交的瑞典</a></h3>
       	<p class="content">
 
 2021年8月21日至2022年5月21日。我已经来到瑞典超过6个月。  
