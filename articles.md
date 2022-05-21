@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Sadie's coner
 ---
 
 <div id="articles">
